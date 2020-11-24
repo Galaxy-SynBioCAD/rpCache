@@ -1,1 +1,1 @@
-docker build -t brsynth/rpcache:v2 .
+docker build -t brsynth/rpcache .
